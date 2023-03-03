@@ -1,0 +1,39 @@
+.heading{
+    font-family:"roboto";
+    font-style:"italic";
+    font-weight:bold;
+    font-size:40px;
+    margin-top:50px;
+    color:darkgreen;
+}
+.bg-container{
+    background-color:aquamarine;
+    
+}
+.imgele{
+    height:210px;
+    width:210px;
+}
+.inner-container{
+    height:100vh;
+}
+.in-container{
+    height:80vh;
+    background-color:white;
+    border-radius:100px;
+}
+.icon-container{
+    padding-top:7px;
+    background-color: aquamarine;
+    height:37px;
+    width:120px;
+    border-width:3px;
+    border-radius:5px;
+
+}
+.main-heading{
+ text-align:center;
+ font-family:"roboto";
+ margin-top:30px;
+ margin-bottom:20px;
+}
